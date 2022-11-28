@@ -4,7 +4,7 @@
            com.taoensso/timbre        {:mvn/version "4.10.0"}
            com.taoensso/encore        {:mvn/version "2.120.0"}
            com.fulcrologic/guardrails {:mvn/version "1.1.4"}
-           com.fulcrologic/fulcro-rad {:mvn/version "1.1.11"}
+           io.github.qleguennec/fulcro-rad {:mvn/version "64850134ab09bf4d4540c429c5ab3034b086ed04"}
            vvvvalvalval/datomock      {:mvn/version "0.2.2"}
            org.clojure/clojure        {:mvn/version "1.10.1"}}
 
